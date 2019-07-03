@@ -1,0 +1,1 @@
+export const DEFAULT_BUFFER_ROW_COUNT = 5;

@@ -1,0 +1,21 @@
+{
+  "name": "react-virtual-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.22",
+    "react": "^16.8.6",
+    "typescript": "^3.5.2"
+  }
+}
